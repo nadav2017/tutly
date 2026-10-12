@@ -1,0 +1,16 @@
+﻿# Java / Maven
+target/
+.idea/
+*.iml
+.mvn/wrapper/maven-wrapper.jar
+
+# React / Node
+node_modules/
+build/
+dist/
+.env
+.env.local
+
+# General
+.vscode/
+.DS_Store
